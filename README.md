@@ -3,11 +3,11 @@ snake game
 
 Установка
 
-Установка PyGame pip install pygame
+1.Установка PyGame pip install pygame
+2.Запуск python snakei.py
 
-Запуск python snakei.py
+Управление
 
-Управление стрелками
-
-С-начать заново играть
-Q-выйти
+1.Управление стрелками
+2.С-начать заново играть
+3.Q-выйти
